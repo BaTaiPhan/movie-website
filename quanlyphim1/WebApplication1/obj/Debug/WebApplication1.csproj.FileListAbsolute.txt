@@ -1,0 +1,158 @@
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\EntityFramework.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Owin.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\WebGrease.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\EntityFramework.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hp\Desktop\OOp\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\New folder\quanlyphim1\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\New folder\quanlyphim1\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\New folder\quanlyphim1\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\New folder\quanlyphim1\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\csc.exe
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\vbc.exe
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\WebApplication1.dll.config
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\WebApplication1.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\WebApplication1.pdb
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\EntityFramework.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Owin.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.Razor.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.WebPages.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\WebGrease.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.Razor.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.WebPages.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\EntityFramework.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\BouncyCastle.Cryptography.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\MimeKit.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Buffers.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Memory.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Numerics.Vectors.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\BouncyCastle.Cryptography.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\MimeKit.pdb
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\MimeKit.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\MimeKit.dll.config
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Buffers.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Memory.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Numerics.Vectors.xml
+D:\Do an chuyen nganh\quanlyphim1\quanlyphim1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml

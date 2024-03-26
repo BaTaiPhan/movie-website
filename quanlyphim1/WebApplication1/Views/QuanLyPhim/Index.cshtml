@@ -1,0 +1,113 @@
+﻿@model IEnumerable<WebApplication1.Models.Movy>
+@using WebApplication1.Models
+@{
+    Layout = "~/Views/Shared/QuanLyPhim_Layout.cshtml";
+}
+
+
+@{
+    MyDataDataContext db = new MyDataDataContext();
+    var count = 1;
+    var count2 = 1;
+    var countn2 = 1;
+    var countbanner = 1;
+    var stR = "grid-container blur itemgrid";
+    var strq = "grid-item item2 bg-itemreviews";
+    var str2 = "gr-content1 con-item";
+    // var news = db.News.OrderByDescending(a => a.CreateTime).Take(1).ToList();
+    // var hotnews = db.News.OrderByDescending(a => a.ReadCount).Take(3).ToList();
+    // var news2 = db.News.OrderByDescending(a => a.CreateTime).Take(4).ToList();
+    //  var banner = db.Movies.OrderByDescending(a => a.MovieID).Take(5).ToList();
+    //var banner2 = (from a in banner select a.Banner).ToList();*/
+}
+@section css {
+    <link rel="icon" href="./img/favicon.ico">
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link href="~/Content/scss.css" rel="stylesheet" />
+
+}
+
+@section scriptsduoi {
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="~/Scripts/Scripbody.js"></script>
+}
+<style>
+    .row {
+        padding-top: 0px !important;
+    }
+
+    .MultiCarousel {
+        height: 300px !important;
+    }
+
+    .bookticket {
+        display: none;
+        position: absolute;
+        width: 149px;
+        height: 110px;
+        margin: 0;
+        margin-top: -120px;
+        background-color: #FFFFFF;
+        transition: 0.5s;
+    }
+
+    .item {
+        height: 280px !important;
+        width: 150px !important;
+        margin: 0 8px 0 8px !important;
+        padding: 0 !important;
+    }zz
+
+    .pad15 {
+        padding: 0px !important;
+        background-color: #333 !important;
+        padding: 0;
+    }
+
+        .pad15 img {
+            width: 130.2px;
+            height: 220.62px;
+        }
+
+        .pad15 p {
+            height: 40px;
+            padding-top: 5px;
+            color: #FFF;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 16px;
+            text-align: center;
+        }
+
+    .btnn {
+        background-color: #F27A17;
+        height: 265px;
+        width: 20px;
+        border: none;
+        margin-top: -5px;
+        font-size: 16px;
+    }
+
+    .bookticket button {
+        width: 134px;
+        height: 26px;
+        background: #F27A17;
+        border-radius: 2px;
+        border: none;
+        font-family: Pragati Narrow;
+        font-size: 14px;
+        font-weight: 700;
+    }
+
+    /* .pad15:hover .bookticket {
+        display: block;
+    }*/
+</style>
+<!--image slider start |||||     chạy quản lý phim/index  or admin /home -->
+<!-- Strar Conten-->
+
+@Html.Partial("Login")
+<!-- End Conten-->

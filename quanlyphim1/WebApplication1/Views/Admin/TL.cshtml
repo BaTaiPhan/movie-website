@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebApplication1.Models.Genre>
+@{
+    ViewBag.Title = "TheLoai";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-10"><h1 class="h3 mb-2 text-gray-800">Danh sách Đạo diễn</h1></div>
+    <div class="col-2"><div style="float:right"><button type="button" class="btn btn-success">@Html.ActionLink("Thêm", "ThemTheLoai")</button></div></div>
+</div>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Danh sách</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Mã Thể loại</th>
+                        <th>Tên Thể loại</th>
+                        <th style="text-align: center">Chức năng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.GenreID</td>
+                            <td>@item.GenreName</td>
+                            <td>
+                                @Html.ActionLink("Edit", "SuaTheLoai", new { id = item.GenreID }) |
+                                @Html.ActionLink("Delete", "XoaTheLoai", new { id = item.GenreID })
+                            </td>
+                            <td style="width: 14%; text-align: center">
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,88 @@
+﻿@model IEnumerable<QuanLyPhim.Models.Movy>
+@{
+    ViewBag.Title = "DanhGiaPhim";
+    Layout = "~/Views/Shared/QuanLyPhim_Layout.cshtml";
+}
+@section css{
+    <link href="~/Content/bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Style.css" rel="stylesheet" />
+    <link href="http://fonts.googleapis.com/css?family=Ruge+Boogie" rel="stylesheet" type="text/css">
+}
+@section scriptstren{
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+}
+
+<style>
+    body{
+        background:#282828;
+    }
+    .format-readmore a {
+        color: #0026ff !important;
+    }
+
+    .search {
+        background-color: #4f4f4f;
+    }
+    .body-content span{
+        color:#ffffff;
+    }
+</style>
+<div class="Search-bar">
+    <div class="search">
+        @using (Html.BeginForm("DanhGiaPhim", "QuanLyPhim"))
+        {
+            @Html.ValidationSummary(true)
+            <div class="search-a input-group">
+                @*<input class="form-control" type="search" placeholder="Movie name...">*@
+                @Html.TextBox("search", null, new { @class = "form-control", placeholder = "Movie name..." })
+                <button class="icoin-search" type="submit">
+                    <img src="~/Content/image_review/Vector.png" alt="icoin-search">
+                </button>
+            </div>
+        }
+    </div>
+  
+</div>
+<div class="content-table">
+    <table class=" table table-striped table-hover">
+        <thead>
+            <tr class="title">
+                <th id="title-id">Title</th>
+                <th>IMDb</th>
+                <th>Đánh Giá Mức Độ Hay</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="body-content animate__animated animate__flipInX">
+                    <th class="title-class">
+                        <div style="width: 66px; height:100px; float:left;">
+                            <img src="@item.Image" alt="film">
+                        </div>
+                        <div class="format-readmore">
+                            <span>@item.Title</span>
+                            <br>
+                            <a href="~/QuanLyPhim/Detail/@item.MovieID">Read more</a>
+                        </div>
+                    </th>
+                    <th class="format-th">
+                        <br>@item.IMDb
+                    </th>
+                    <th class="format-th">
+                        <br>
+                        <img src="~/Content/image/ngoisao.png" alt="">
+                        @item.Tomatometer
+                    </th>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="button-bot">
+        <button class="button">
+            LOAD MORE
+            <img src="~/Content/image_review/Vector 11.png" alt="">
+        </button>
+    </div>
+</div>
+@Html.Partial("Login")

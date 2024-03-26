@@ -1,0 +1,42 @@
+﻿
+<head>
+    <title>Liên hệ</title>
+</head>
+<body>
+
+    <h1>Thông tin liên lạc</h1>
+    <p>Chúng tôi rất vui lòng được nghe từ bạn. Dưới đây là thông tin liên lạc của chúng tôi:</p>
+
+    <ul>
+        <li class="icon-fl"><img src="~/Content/images/phim/dia-chi.png" width="800"></li>
+        <li>Email: contact@example.com</li>
+        <li>Số điện thoại: (123) 456-7890</li>
+        <li>Địa chỉ: 123 Đường ABC, Thành phố XYZ</li>
+    </ul>
+
+    <p>Nếu bạn có bất kỳ câu hỏi hoặc ý kiến nào, xin đừng ngần ngại liên hệ với chúng tôi.</p>
+    @using (Html.BeginForm("SendEmail", "QuanLyPhim", FormMethod.Post))
+    {
+        <div>
+            <label for="toAddress">To Address:</label>
+            <input type="text" name="toAddress" required />
+        </div>
+
+        <div>
+            <label for="subject">Subject:</label>
+            <input type="text" name="subject" required />
+        </div>
+
+        <div>
+            <label for="body">Body:</label>
+            <textarea name="body" required></textarea>
+        </div>
+
+        
+        <div>
+            <input type="submit" value="Send Email" />
+        </div>
+    }
+
+
+</body>

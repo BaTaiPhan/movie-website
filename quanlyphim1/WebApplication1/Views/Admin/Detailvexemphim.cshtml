@@ -1,0 +1,81 @@
+﻿@model WebApplication1.Models.Ticket
+@{
+    ViewBag.Title = "DaoDien";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            TicketID
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TicketID)
+        </dd>
+
+        <dt>
+            MalID
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MalID)
+        </dd>
+
+        <dt>
+            Money
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Money)
+        </dd>
+
+        <dt>
+            Seat
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Seat)
+        </dd>
+
+        <dt>
+            Vip
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vip)
+        </dd>
+
+        <dt>
+            Normal
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Normal)
+        </dd>
+
+        <dt>
+            UserID
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserID)
+        </dd>
+        <dt>
+            AmountSeats
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AmountSeats)
+        </dd>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <a class="btn btn-primary btn-lg" href="https://localhost:44328/Donate/Donation">Donate Now</a>
+            </div>
+        </div>
+
+    </dl>
+</div>
+

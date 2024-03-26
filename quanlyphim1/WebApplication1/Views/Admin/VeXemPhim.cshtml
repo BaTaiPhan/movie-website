@@ -1,0 +1,63 @@
+﻿@model IEnumerable<WebApplication1.Models.Ticket>
+@{
+    ViewBag.Title = "vexemphim";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-10"><h1 class="h3 mb-2 text-gray-800">Danh sách Đạo diễn</h1></div>
+    <div class="col-2"><div style="float:right"><button type="button" class="btn btn-success">@Html.ActionLink("Thêm", "Themvexemphim")</button></div></div>
+</div>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Danh sách</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Mã ve</th>
+                        <th>Tên mail</th>
+                        <th>Gia </th>
+                        <th>Cho ngoi</th>
+                        <th>Vip</th>
+                        <th>Normal</th>
+                        <th>ma tk</th>
+                        <th>So luong cho ngoi</th>
+                        <th style="text-align: center">Chức năng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                       <tr>
+                           <td>@item.TicketID</td>
+                           <td>@item.MalID</td>
+                           <td>@item.Money</td>
+                           <td>@item.Seat</td>
+                           <td>@item.Vip</td>
+                           <td>@item.Normal</td>
+                           <td>@item.UserID</td>
+                           <td>@item.AmountSeats</td>
+
+
+                           <td>
+                               @Html.ActionLink("Detail", "Detailvexemphim", new { id = item.TicketID }) |
+                               @Html.ActionLink("Edit", "Suavexemphim", new { id = item.TicketID }) |
+                               @Html.ActionLink("Delete", "Xoavexemphim", new { id = item.TicketID })
+                           </td>
+                           
+                           <td style="width: 14%; text-align: center">
+                           </td>
+                       </tr>
+                    }
+                </tbody>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+

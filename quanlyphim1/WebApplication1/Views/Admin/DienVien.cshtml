@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WebApplication1.Models.Actor>
+@{
+    ViewBag.Title = "DienVien";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-10"><h1 class="h3 mb-2 text-gray-800">Danh sách Diễn viên</h1></div>
+    <div class="col-2"><div style="float:right"><button type="button" class="btn btn-success">@Html.ActionLink("Thêm", "ThemDV")</button></div></div>
+</div>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Danh sách</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Mã Diễn Viên</th>
+                        <th>Tên Diễn Viên</th>
+                        <th>Nơi Sinh</th>
+                        <th>Ngày Sinh</th>
+                        <th style="text-align: center">Chức năng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.ActorID</td>
+                            <td>@item.Name</td>
+                            <td>@item.Nationality</td>
+                            <td>@item.Birth</td>
+                            <td>
+                                @Html.ActionLink("Edit", "SuaDV", new { id = item.ActorID }) |
+                                @Html.ActionLink("Delete", "XoaDienVien", new { id = item.ActorID })
+                            </td>
+                            <td style="width: 14%; text-align: center">
+                            </td>
+                            
+                        </tr>
+                        //a này t code ché ai code mạy t demo 1 trang html css r còn lại tự làm chớ\\\ thấy admin thíu k thì đó t add \\\ duma tải thíu nữa html razo
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
